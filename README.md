@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hender-hs a Full stack Web Developer
-- 👀 I’m interested in software development and archtheture
+- 👀 I’m interested in software development and software archtheture
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me developer.henderson@hotmail.com or in my website https://portifolio-p.vercel.app/
