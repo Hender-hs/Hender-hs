@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hender-hs a Full stack Web Developer
 - 👀 I’m interested in software development and software archtheture
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently learning Cloud Computing and Compilers
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me developer.henderson@gmail.com or in my website https://portifolio-p.vercel.app/
 
