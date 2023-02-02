@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hender-hs a Software Engineer.
 - 👀 I’m interested in software development and software architecture.
-- 🌱 I’m currently learning Cloud Computing and Compilers.
+- 🌱 I’m currently learning Compilers.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me developer.henderson@gmail.com or in my website https://portifolio-p.vercel.app/.
 
